@@ -108,6 +108,8 @@ Adding Amazon Cognito for user authentication.
 Implementing CI/CD using GitHub Actions or AWS CodePipeline.
 Managing infrastructure using Terraform or AWS CloudFormation.
 Adding monitoring dashboards and alerts.
+
+
 Implementing AWS WAF for additional application security.
 
 ## Project Status
@@ -115,3 +117,11 @@ Implementing AWS WAF for additional application security.
 Completed as part of my hands-on AWS cloud engineering portfolio.
 
 The AWS resources were cleaned up after documentation to avoid unnecessary charges.
+
+## Detailed Project Documentation
+
+The following documentation provides additional technical evidence and implementation details from this hands-on AWS project:
+
+- [API Documentation](./docs/legendary-aws-compute-api.pdf)
+- [AWS Lambda Documentation](./docs/legendary-aws-compute-lambda.pdf)
+- [Amazon CloudFront Documentation](./docs/legendary-aws-networks-cloudfront.pdf)
