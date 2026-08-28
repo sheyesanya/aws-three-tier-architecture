@@ -35,8 +35,8 @@ Application Layer
 Amazon DynamoDB
 Data Layer
 
-AWS Services Used
-Amazon S3
+## AWS Services Used
+### Amazon S3
 
 Used to host the static frontend files.
 
@@ -64,7 +64,7 @@ Amazon CloudWatch
 
 Used for monitoring, logging and troubleshooting the application.
 
-Key Concepts Demonstrated
+## Key Concepts Demonstrated
 Three-tier architecture
 Serverless computing
 API-driven applications
@@ -73,7 +73,8 @@ NoSQL databases
 IAM permissions
 Cloud monitoring
 AWS service integration
-What I Learned
+
+## What I Learned
 
 Through this project, I gained practical experience designing and deploying a serverless architecture where multiple AWS services communicate to deliver a complete web application.
 
@@ -86,7 +87,8 @@ Lambda can execute backend code without server management.
 DynamoDB can provide scalable NoSQL data storage.
 IAM roles and policies enable secure communication between AWS services.
 CloudWatch can be used to monitor and troubleshoot serverless applications.
-Challenges and Troubleshooting
+
+## Challenges and Troubleshooting
 
 One of the most valuable parts of this project was understanding how requests travel across multiple AWS services.
 
@@ -96,7 +98,7 @@ Frontend → CloudFront → API Gateway → Lambda → DynamoDB
 
 This reinforced the importance of structured debugging and observability in cloud environments.
 
-Future Improvements
+## Future Improvements
 
 Possible improvements include:
 
@@ -105,7 +107,8 @@ Implementing CI/CD using GitHub Actions or AWS CodePipeline.
 Managing infrastructure using Terraform or AWS CloudFormation.
 Adding monitoring dashboards and alerts.
 Implementing AWS WAF for additional application security.
-Project Status
+
+## Project Status
 
 Completed as part of my hands-on AWS cloud engineering portfolio.
 
