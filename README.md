@@ -34,6 +34,7 @@ Application Layer
   ▼
 Amazon DynamoDB
 Data Layer
+```text
 
 ## AWS Services Used
 ### Amazon S3
